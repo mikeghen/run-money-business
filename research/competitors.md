@@ -4,7 +4,7 @@ _Linked from issue #3 · Oct 16, 2026 · Sharon. Public sources only; numbers da
 
 ## Comparison
 
-All numbers checked Oct 16, 2026. "Claim" = the company's own figure. Sources for every number: [competitors-reach.csv](competitors-reach.csv).
+All numbers checked Oct 16, 2026. "Claim" = the company's own figure.
 
 | App | What it is | Reported reach | Socials | App store | Token |
 |---|---|---|---|---|---|
