@@ -1,6 +1,6 @@
 # Community research: where Run Money can post or partner
 
-_Issue #3 · Plan, Oct 16, 2026 · Sharon. Public sources only, re-checked Oct 15; nobody contacted yet. Living list; will update as we reach out._
+_Issue #3 · Plan, Oct 16, 2026 · Sharon. Updated Nov 1: runs at crypto conferences, two more run clubs, new dates. Public sources only, re-checked Oct 15 and Nov 1. Living list; will update as we reach out._
 
 ## The short version
 
@@ -9,7 +9,7 @@ _Issue #3 · Plan, Oct 16, 2026 · Sharon. Public sources only, re-checked Oct 1
 - **Crypto people run together at conferences.** Morning fun runs at events like Devcon, not weekly crypto run clubs.
 - **Nobody else does what we do.** Other run-to-earn apps pay in tokens that collapse. Real interest, no token.
 
-~120 communities, creators and events looked at, each re-checked as still active. 47 made the cut: [partners.csv](partners.csv) (name, link, what it is, why it fits, priority, contact). Highlights below.
+~120 communities, creators and events looked at, each re-checked as still active. 52 made the cut: [partners.csv](partners.csv) (name, link, what it is, why it fits, priority, contact). Highlights below.
 
 ## Top moves
 
@@ -28,6 +28,8 @@ Next: 5/9 (@fiveoutofnine), Ash (@ashmoney.eth, Slow Miles), Rakshita Philip (@a
 
 Ask: "try it for a month and tell us honestly". Not a paid post.
 
+On X since Oct 29: @runmoney_app follows crypto runners and replies to their run posts (runner talk, no pitch), so they know us before any ask.
+
 **3. Base** (late October, after the X clean-up)
 - Regional Amplification form (Europe, APAC or All) + tag @baseposting.
 - Lead with running, not yield (Base's style guide).
@@ -40,14 +42,35 @@ Ask: "try it for a month and tell us honestly". Not a paid post.
 - **Nouns Running Club** (Telegram, ~599 members): Ethereum-native runners. X quiet since early 2025; check the Telegram first, then invite them to Run Money.
 - **Pitch & Run NYC**: founder/VC runs several times a week. Reach out after the NYC Marathon (Nov 1).
 - **Founders Running Club**: Dubai and San Francisco chapters active now. Reach out to the hosts. Sponsored "powered by" runs: later (paid).
+- **Bitcoin Runners** (@BitcoinRunners): a global run club for Bitcoin holders, with 5K social runs in different cities (next: Seoul, Nov 7).
+- **ONE OF US** (@oneofusgang): morning runs at crypto conferences across Asia (Singapore, Seoul, Bangkok, Vietnam, Malaysia).
+
+## Runs at crypto conferences
+
+Most big crypto conferences now have a morning run, usually about 5K. These are the hosts we found:
+
+| Host | Where they've run | Next |
+|---|---|---|
+| OpenCover | "Cover the Distance 5K", Hyde Park | Nov 11, before Blockworks DAS London |
+| 445 Crew | Community run the day before Solana Breakpoint, London | Nov 14 (Breakpoint is Nov 15–17) |
+| TRM Labs (TRM Run Club) | Consensus Miami, DC Blockchain Summit, Singapore Fintech Festival 2025 | No 2026 Singapore run listed yet (SFF is Nov 18–20) |
+| ONE OF US | Singapore, ETH Seoul, Bangkok, Vietnam, Malaysia Blockchain Week | Check their X |
+| Borderless (Stablecoin Run Club) | Consensus | Next Consensus |
+| Verity + Unlink | ETHConf, Central Park | – |
+| Stay Liquid | ETHCC, Cannes | – |
+| Arbitrum DAO | ETHDenver | – |
+
+Idea: a 5K recorded on Strava counts toward a member's 5 km week, so "running at [event]? it counts" is an easy post on the day. Co-hosting a run with one of these hosts is a later, bigger step. Devcon Mumbai still has no run listed (checked Nov 1).
 
 ## Dates coming up
 
 | When | What | Idea |
 |---|---|---|
-| Oct 25 | Marine Corps + Frankfurt marathons | Race-weekend post |
-| Nov 1 | NYC Marathon | Reach out to Pitch & Run NYC; post |
+| Nov 1 | NYC Marathon | Congratulate crypto runners who finish; reach out to Pitch & Run NYC after |
 | Nov 3–6 | Devcon, Mumbai | Watch for a side-event run to post about or join (none listed yet) |
+| Nov 7 | Bitcoin Runners 5K, Seoul | Cheer on X |
+| Nov 11 | OpenCover 5K, London (Blockworks DAS) | Quote their post on the day |
+| Nov 14 | 445 Crew run, London (Solana Breakpoint) | Cheer on X |
 | Nov 22 | Philadelphia Marathon | Home-city post |
 | Nov 26 | Turkey trots | Post |
 | Early Dec | Strava Year in Sport | Post |
