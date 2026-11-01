@@ -9,11 +9,10 @@ _November 2026. How we work with creators. No cash fees for now: a free membersh
 
 ## Referral proposal
 
-1. Creators get 50% of the membership fee for each person they bring in. We run it for 3 months, then review. Coinbase pays its affiliates the same: 50% of a referred user's fees for their first 3 months. At our size it costs little, and a smaller cut of a lowered fee is too small for a creator to bother with.
+1. Creators get 50% of the membership fee for each person they bring in. We test that rate for the first 3 months of the program, then review it. Coinbase's affiliate program also pays creators 50% of their referrals' fees. At our size it costs little, and a smaller cut of a lowered fee is too small for a creator to bother with.
 2. A referral counts when the new member mints, deposits, and finishes their first week at 5 km. We pay for real users only, not clicks (Sweatcoin does the same: creators get paid per invite only once that person actually uses the app).
-3. The creator's cut is paid in ETH, monthly.
-4. Tracking: a referral link the app remembers at signup (run-money-web #10). Until then, a "who sent you?" question after signup.
-5. Later: a reward for both sides when members invite friends (about $5–10 in USDC each, after the friend's first counted week), a leaderboard, and referral links for members too.
+3. Tracking: a referral link the app remembers at signup (run-money-web #10). Until then, a "who sent you?" question after signup.
+4. Later: a reward for both sides when members invite friends (about $5–10 in USDC each, after the friend's first counted week), a leaderboard, and referral links for members too.
 
 To decide: the % (50% or a smaller 25%), paid from the fee pool or your own revenue, and ETH or USDC.
 
@@ -32,5 +31,3 @@ To decide: the % (50% or a smaller 25%), paid from the fee pool or your own reve
 
 1. Our own runs and app screens first.
 2. Creator and member photos only with their OK.
-3. Free stock (Unsplash, Pexels) for general running shots.
-4. Buy photos only when the above doesn't cover it.
