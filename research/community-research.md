@@ -60,7 +60,7 @@ Most big crypto conferences now have a morning run, usually about 5K. These are 
 | Stay Liquid | ETHCC, Cannes | – |
 | Arbitrum DAO | ETHDenver | – |
 
-Idea: a 5K recorded on Strava counts toward a member's 5 km week, so "running at [event]? it counts" is an easy post on the day. Co-hosting a run with one of these hosts is a later, bigger step. Devcon Mumbai still has no run listed (checked Nov 1).
+Idea: a 5K recorded on Strava covers a member's week, so "running at [event]? it counts" is an easy post on the day. Co-hosting a run with one of these hosts is a later, bigger step. Devcon Mumbai still has no run listed (checked Nov 1).
 
 ## Dates coming up
 

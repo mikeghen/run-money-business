@@ -17,7 +17,7 @@ All numbers checked Oct 16, 2026. "Claim" = the company's own figure.
 | Shinjo | PoolTogether's app on Base | 175K+ wallets (likely all of PoolTogether) | X 62 | Web | Uses POOL |
 | Moonwalk | Stake on steps (Solana) | ~8–11K daily users (claim, 2025) | X 40K | iOS 4.3 (25, US) · Android 10K+ | MF −94% |
 | Cash for Steps | Points for steps + a $1 daily draw | None published (~$50/day paid out) | None | iOS 4.5 (38K) | No token |
-| **Run Money** | Run 5 km a week, savings earn more (Aave on Base) | 27 members, 18 depositors, ~$2.1K | X 118 (quiet since Jun 11) | Web app | **No token** |
+| **Run Money** | Run 5K a week, savings earn more (Aave on Base) | 27 members, 18 depositors, ~$2.1K | X 118 (quiet since Jun 11) | Web app | **No token** |
 
 What the numbers say:
 - **The biggest reach is mainstream apps with easy signup** (Sweatcoin, StepBet), not crypto apps.

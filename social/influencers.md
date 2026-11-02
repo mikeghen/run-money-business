@@ -10,7 +10,7 @@ _November 2026. How we work with creators. No cash fees for now: a free membersh
 ## Referral proposal
 
 1. Creators get 50% of the membership fee for each person they bring in. Start at 50%, review after 3 months. Coinbase's affiliate program also pays creators 50% of their referrals' fees. At our size it costs little, and a smaller cut of a lowered fee is too small for a creator to bother with.
-2. A referral counts when the new member mints, deposits, and finishes their first week at 5 km. We pay for real users only, not clicks (Sweatcoin does the same: creators get paid per invite only once that person actually uses the app).
+2. A referral counts when the new member mints, deposits, and finishes their first week at 5K. We pay for real users only, not clicks (Sweatcoin does the same: creators get paid per invite only once that person actually uses the app).
 3. Tracking: a referral link the app remembers at signup (run-money-web #10). Until then, a "who sent you?" question after signup.
 4. Later: a reward for both sides when members invite friends (about $5–10 in USDC each, after the friend's first counted week), a leaderboard, and referral links for members too.
 

@@ -50,7 +50,7 @@ Memes and race posts got the most views, so 3 of 4 slots now go for reach. Compa
 | Tue Nov 3 | Extra | We're on Instagram (from the Instagram plan) |
 | Wed Nov 4 | Meme | Drake meme: "Skipping your run because it's dark at 5pm" vs "Headlamp on. Keep this week's interest" (clocks went back Nov 1) |
 | Thu Nov 5 | Thread | Your savings account vs inflation: the average US savings rate and inflation, then what the same dollars earned on Run Money, in plain dollars |
-| Sat Nov 7 | How it works | One week on Run Money: the deposit earns, two runs make 5 km, the week ends |
+| Sat Nov 7 | How it works | One week on Run Money: the deposit earns, two runs make 5K, the week ends |
 | Mon Nov 9 | Rate | Rate post |
 | Wed Nov 11 | Meme | Rating my excuses: "it's cold 4/10" … "my interest goes to the members who ran 0/10, I'm going" (same joke as the IG Reel) |
 | Thu Nov 12 | Thread | For crypto users: what goes onchain and what doesn't. Only "goal hit: yes/no" goes onchain; run data stays off-chain and wallets aren't linked to Strava |
@@ -66,7 +66,7 @@ Memes and race posts got the most views, so 3 of 4 slots now go for reach. Compa
 | Mon Nov 30 | Rate | Rate post |
 
 Also:
-- All month, Movember (60 km in November for men's health): "5 km a week covers about a third." Use it as a reply or on a quiet day.
+- All month, Movember (60 km in November for men's health): "5K a week covers about a third." Use it as a reply or on a quiet day.
 - Once the new membership fee is set: a new pinned post (the current one says 0.0125 ETH).
 
 Thread and meme topics are a starting point. We'll pick the final ones each week, after seeing the views.
@@ -95,7 +95,7 @@ End of November: views, replies, reposts and new followers per post type, agains
 
 ## Wording rules
 
-- Plain words first: "deposit", "interest", "week", "hit your 5 km".
+- Plain words first: "deposit", "interest", "week", "hit your 5K".
 - Every rate gets a date and a source.
 - "One-time membership", no amount until the new fee is set.
 - Say "weekly", not a payout day.
