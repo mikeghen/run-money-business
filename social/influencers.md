@@ -14,7 +14,7 @@ _November 2026. How we work with creators. No cash fees for now: a free membersh
 3. Tracking: a referral link the app remembers at signup (run-money-web #10). Until then, a "who sent you?" question after signup.
 4. Later: a reward for both sides when members invite friends (about $5–10 in USDC each, after the friend's first counted week), a leaderboard, and referral links for members too.
 
-To decide: the % (50% or a smaller 25%), paid from the fee pool or your own revenue, and ETH or USDC.
+Still open: where the cut is paid from (fee pool or your own revenue), and ETH or USDC.
 
 ## How we work with creators
 
