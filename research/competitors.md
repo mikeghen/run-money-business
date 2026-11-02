@@ -4,7 +4,7 @@ _Linked from issue #3 · Oct 16, 2026 · Sharon. Public sources only; numbers da
 
 ## Comparison
 
-All numbers checked Oct 16, 2026. "Claim" = the company's own figure.
+All numbers checked Oct 16, 2026 (Renno: Nov 2). "Claim" = the company's own figure.
 
 | App | What it is | Reported reach | Socials | App store | Token |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@ All numbers checked Oct 16, 2026. "Claim" = the company's own figure.
 | Shinjo | PoolTogether's app on Base | 175K+ wallets (likely all of PoolTogether) | X 62 | Web | Uses POOL |
 | Moonwalk | Stake on steps (Solana) | ~8–11K daily users (claim, 2025) | X 40K | iOS 4.3 (25, US) · Android 10K+ | MF −94% |
 | Cash for Steps | Points for steps + a $1 daily draw | None published (~$50/day paid out) | None | iOS 4.5 (38K) | No token |
+| Renno | Stake on a weekly run goal; missed entries go to the runners who made it. No crypto | None published | IG 1.1K | iOS 5.0 (24) | No token |
 | **Run Money** | Run 5K a week, savings earn more (Aave on Base) | 27 members, 18 depositors, ~$2.1K | X 118 (quiet since Jun 11) | Web app | **No token** |
 
 What the numbers say:
@@ -31,6 +32,7 @@ What the numbers say:
 4. **Sign up with email, no wallet first** (Moonwalk): new users sign up with a phone number, email, Apple or Google account, and the app creates a crypto wallet for them automatically (using Privy). Then they connect their fitness tracker. No wallet app or seed phrase needed to get started. It only solves the wallet: people still need to put money in, so it works best paired with a card purchase inside the app. Run Money today needs a wallet with ETH + USDC on Base first.
 5. **Creators paid per real signup** (Sweatcoin): a personal invite link that pays only when the person actually starts. Short runner-first videos, no crypto in the hook.
 6. **Accountability is the hook** (Higher Athletics): runners lock ("pledge") 5,000 $HIGHER for 15 days or 10,000 for 30, set a goal (how often, how far or how fast) and post proof of each run. Hit the goal: get the pledge back minus a 10% fee, plus a bonus from the pool. Miss it: the pledge goes to the pool. A pledge is worth only about $1–2, and people still do it almost every day, so the commitment matters more than the money.
+7. **Funny animation travels** (Renno): a 35-second voxel Reel, "What happens if you skip a run every day?", has 2.3K likes on a 1.1K-follower account. People tag friends in the comments, and the app only appears near the end.
 
 ## Don't do what they did
 
