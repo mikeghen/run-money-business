@@ -11,7 +11,7 @@ _Sharon · Nov 2, 2026. Research on adding real stakes to Run Money. Public sour
 
 - Dollars, no token: [StepBet](https://www.stepbet.com/) (steps; $148.9M paid out by its own count, Oct 16), [Renno](https://apps.apple.com/us/app/renno/id6781789465) (runs; launched Sep 2), [Stride](https://joinstride.app/) and [RunMatch](https://runmatch.io/get-paid-to-run) (runs).
 - Crypto, with their own token: [Moonwalk](https://www.coingecko.com/en/coins/moonwalk-fitness) (MF −96.5%), [STEPN Marathon](https://www.coingecko.com/en/coins/stepn) (GMT −99.8%), [Runwago](https://coinmarketcap.com/currencies/runwago/) (−99.93%), Higher Athletics (HIGHER −99.9%, Oct 16).
-- Someone tried USDC with no token: Gauntlet, where friends bet USDC on Strava challenges on Base. It launched Apr 8, and the site didn't load on Oct 21 or Nov 2 ([Product Hunt](https://www.producthunt.com/products/gauntlet-2), [Hacker News](https://news.ycombinator.com/item?id=47032040)).
+- Someone tried USDC with no token: Gauntlet, where friends bet USDC on Strava challenges on Base. Its [homepage](https://web.archive.org/web/20260407183550/https://gauntlet.bet/) showed 56 users and $10,765 staked on Apr 7 (its own count, may include demo money). It launched on Product Hunt Apr 8, and the site didn't load on Oct 21 or Nov 2 ([Product Hunt](https://www.producthunt.com/products/gauntlet-2), [Hacker News](https://news.ycombinator.com/item?id=47032040)).
 - I couldn't find a live USDC, no-token version. I checked the US App Store, DefiLlama, GitHub, Farcaster and the web, but not Google Play, X or Telegram.
 
 ## The feature
