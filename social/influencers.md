@@ -9,12 +9,12 @@ _November 2026. How we work with creators. No cash fees for now: a free membersh
 
 ## Referral
 
-1. Creators get 40% of the membership fee for each person they bring in, one-time (same as David's plan on run-money-web #10).
-2. Paid by hand for now, until referral links are built.
-3. Tracking: a referral link the app remembers at signup (run-money-web #10). Until then, a "who sent you?" question after signup.
+1. Creators get 40% of the membership fee for each person they bring in, paid once, in USDC. At today's 0.0125 ETH fee that's 0.005 ETH per signup.
+2. A referral counts when the new member mints their membership through the creator's link.
+3. Tracking: a referral link the app remembers until the person mints.
 4. Later: a reward for both sides when members invite friends (about $5–10 in USDC each, after the friend's first counted week), a leaderboard, and referral links for members too.
 
-Still open: where the cut is paid from (fee pool or your own revenue). David's plan pays in USDC.
+Still open: where the cut is paid from (fee pool or your own revenue).
 
 ## How we work with creators
 
